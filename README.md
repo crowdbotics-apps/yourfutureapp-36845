@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-voice-memos-new](screens/voice-memos-new)
 - [react-native-maps](modules/maps)
 - [screen-account-settings](screens/account-settings)
+- [screen-settings](screens/settings)
 
 # Getting started: Frontend
 
